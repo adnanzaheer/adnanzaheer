@@ -1,4 +1,4 @@
-### Hi there, I'm Adnan - aka Pythonista 👋
+### Hi there, I'm Adnan -  👋
 
 ## I'm a Software Developer!
 - 🔭 I’m currently investigating [Laravel] [Wordpress] Odoo][website] tickets!
