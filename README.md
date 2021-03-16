@@ -1,7 +1,7 @@
-### Hi there, I'm Adnan -  👋
+### Hi there, I'm Adnan  👋
 
 ## I'm a Software Developer!
-- 🔭 I’m currently investigating [Laravel] [Wordpress] Odoo][website] tickets!
+- 🔭 I’m currently investigating [Laravel] [wordpress] [Odoo][website] tickets!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun facts: I love to sing, write, and exercise!
 - ⚡ And yeah I'm not very social with people that I don't know :p
