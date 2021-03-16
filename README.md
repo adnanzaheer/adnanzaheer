@@ -1,13 +1,13 @@
 ### Hi there, I'm Adnan  👋
 
 ## I'm a Software Developer!
-- 🔭 I’m currently investigating [Laravel] [wordpress] [Odoo][website] tickets!
+- 🔭 I’m currently investigating [Laravel, Arduino] [website]!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun facts: I love to sing, write, and exercise!
 - ⚡ And yeah I'm not very social with people that I don't know :p
 - 🥅 2021 Goals: 
-  - Complete and fix my messy projects (Lighty for ex).
-  - Contribute more to Open Source projects particularly Odoo.
+  - Complete and fix my messy projects (Textile IOT Systems).
+  - Contribute more to Open Source projects particularly Laravel Pakistan.
   - Take my skills to the next level and improve my knowledge.
 
 
@@ -19,7 +19,7 @@
 [![views](https://komarev.com/ghpvc/?username=nouraellm&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/nouraellm/)
 <br />
 
-<img align="left" alt="Adnan Zaheer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nouraellm&show_icons=true&hide_border=true" />
+<img align="left" alt="Adnan Zaheer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adnanzaheer&show_icons=true&hide_border=true" />
 
 [website]: https://www.adnanzaheer.com/
 [twitter]: https://twitter.com/adnanzaheer2001
