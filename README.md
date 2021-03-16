@@ -1,4 +1,4 @@
-### Hi there, I'm Adnan  👋
+### Hi there, I'm Adnan Zaheer  👋
 
 ## I'm a Software Developer!
 - 🔭 I’m currently investigating [Laravel, Arduino] [website]!
@@ -16,7 +16,7 @@
 [<img align="left" alt="nouraellm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="nouraellm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nouraellm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![views](https://komarev.com/ghpvc/?username=nouraellm&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/nouraellm/)
+[![views](https://komarev.com/ghpvc/?username=adnanzaheeer&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/adnanzaheer/)
 <br />
 
 <img align="left" alt="Adnan Zaheer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adnanzaheer&show_icons=true&hide_border=true" />
