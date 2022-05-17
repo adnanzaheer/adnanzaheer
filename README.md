@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer!
 - 🔭 I’m currently investigating [Laravel, Arduino] [website]!
-- 🌱 I’m currently working with Cell and Bell Solutions on iListuGo.com
+- 🌱 I’m currently working with Technisia on verious projects.
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun facts: I love to sing, write, and exercise!
 - ⚡ And yeah I'm not very social with people that I don't know :p
